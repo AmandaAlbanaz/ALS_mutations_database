@@ -1,0 +1,457 @@
+ID-Case,SALS/FALS,age of onset,age of death,survival time (months),gender,Country,Reference_ID
+1,SALS,52,58,72,F,Japan,REF1
+2,FALS,64,74,120,M,Poland,REF2
+3,FALS,60,64,48,M,Poland,REF3
+4,FALS,52,60,96,F,Poland,REF4
+5,FALS,not described,57,not described,F,Poland,REF5
+6,FALS,36,62,312,M,Poland,REF6
+7,FALS,55,61,72,M,Poland,REF7
+8,FALS,55,66,133,F,Poland,REF8
+9,FALS,51,55,48,F,Poland,REF9
+10,FALS,64,71,84,M,Poland,REF10
+11,FALS,43,45,24,M,Poland,REF11
+12,FALS,not described,55,not described,M,Poland,REF12
+13,FALS,44,>47,>36,M,Poland,REF13
+14,FALS,53,59,72,F,Poland,REF14
+15,FALS,51,53,19,M,Poland,REF15
+16,FALS,not described,57,not described,M,Japan,REF16
+17,FALS,56,60,48,M,Japan,REF17
+18,FALS,61,74,156,M,Japan,REF18
+19,FALS,68,77,108,M,Japan,REF19
+20,FALS,not described,not described,not described,M,Japan,REF20
+21,FALS,not described,68,not described,M,Japan,REF21
+22,FALS,not described,75,not described,M,Japan,REF22
+23,FALS,not described,68,not described,M,Japan,REF23
+24,FALS,58,73,180,F,Japan,REF24
+25,FALS,52,>63,>132,F,Japan,REF25
+26,FALS,53,>59,>72,F,Japan,REF26
+27,SALS,51,>59,>96,M,Poland,REF27
+28,SALS,53,>59.6,>78,F,Poland,REF28
+29,FALS,55,56,11,F,Sweden,REF29
+30,FALS,68,69,11,F,Sweden,REF30
+31,FALS,50,51.5,17,F,Sweden,REF31
+32,FALS,61,61.8,8,M,Sweden,REF32
+33,FALS,57,not described,not described,F,Italy,REF33
+34,FALS,50,50.8,8,M,Italy,REF34
+35,FALS,51,52.4,16,M,China,REF35
+36,FALS,42,42.7,7,M,Canada,REF36
+37,FALS,61,61.8,8,M,Sweden,REF37
+38,FALS,50,51.5,17,F,Sweden,REF38
+39,FALS,68,69,10,F,Sweden,REF39
+40,FALS,55,56,11,M,Sweden,REF40
+41,FALS,49,51.2,14,M,Canada,REF41
+42,FALS,25,26,12,M,United States,REF42
+43,FALS,26,>29,>36,F,United States,REF43
+44,FALS,45,>47,>24,F,"South Korea, Republic Of Korea",REF44
+45,FALS,20,not descibed,not described,M,Turkey,REF45
+46,FALS,44,not descibed,not described,F,Turkey,REF46
+47,FALS,~40,40.10,10,F,Japan,REF47
+48,FALS,21,>22.8,>20,F,Japan,REF48
+49,FALS,76,77.1,13,M,Japan,REF49
+50,FALS,79,80.3,15,F,Japan,REF50
+51,FALS,71,72.1,13,F,Japan,REF51
+52,FALS,53,53.3,3,F,Japan,REF52
+53,FALS,46,46.2,2,F,Japan,REF53
+54,FALS,41,42,12,M,Japan,REF54
+55,FALS,55,56,12,F,China,REF55
+56,FALS,47,48,12,M,China,REF56
+57,FALS,50,51.1,13,F,China,REF57
+58,FALS,59,59.6,6,M,Japan,REF58
+59,FALS,58,69,132,F,African American,REF59
+60,FALS,42,>43,>12,F,African American,REF60
+61,FALS,50,54,48,M,African American,REF61
+62,FALS,66,69,36,F,African American,REF62
+63,FALS,56,60,48,F,African American,REF63
+64,FALS,45,60,180,F,African American,REF64
+65,FALS,42,not described,not described,F,African American,REF65
+66,FALS,34,not described,not described,M,African American,REF66
+67,FALS,66,69,36,F,African American,REF67
+68,FALS,50,54,48,M,African American,REF68
+69,FALS,66,69,36,F,African American,REF69
+70,FALS,56,60,48,F,African American,REF70
+71,FALS,45,60,180,F,African American,REF71
+72,FALS,48,59,132,F,African American,REF72
+73,FALS,74,75.5,18,M,China,REF73
+74,FALS,73,74.10,22,F,China,REF74
+75,FALS,68,71.8,46,F,China,REF75
+76,FALS,53,55,24,F,China,REF76
+77,SALS,33,36,36,F,Japan,REF77
+78,FALS,66,>70,>48,M,Japan,REF78
+79,FALS,34,42,96,F,Japan,REF79
+80,FALS,51,>65,>168,F,Japan,REF80
+81,FALS,not described,56,not described,F,Austria,REF81
+82,FALS,50,52,24,M,Austria,REF82
+83,FALS,63,64,12,F,Austria,REF83
+84,FALS,49,52,30,F,Austria,REF84
+85,FALS,55,55.8,8,M,Austria,REF85
+86,FALS,41,43,21,M,Austria,REF86
+87,FALS,28.5,29,7,M,Republic Of Korea,REF87
+88,FALS,31,32,12,M,Republic Of Korea,REF88
+89,FALS,36,36.9,>9,F,Republic Of Korea,REF89
+90,FALS,20,22,24,M,Republic Of Korea,REF90
+91,FALS,41,42,12,M,Republic Of Korea,REF91
+92,FALS,68,>70,>24,F,Italy,REF92
+93,SALS,40,>49,>108,M,Italy,REF93
+94,SALS,55,59,48,F,Italy,REF94
+95,SALS,63,>73,>120,F,Italy,REF95
+96,SALS,53,>60,>84,F,Italy,REF96
+97,FALS,63,70,84,M,Italy,REF97
+98,SALS,39,>40.4,>16,M,Sweden,REF98
+99,SALS,18,19,12,M,Japan,REF99
+100,FALS,24,29.9,69,M,Portugal,REF100
+101,SALS,51,not described,not described,F,Republic Of Korea,REF101
+102,SALS,32,35,36,M,France,REF102
+103,SALS,41,not described,not described,F,France,REF103
+104,FALS,52,not described,not described,F,Spain,REF104
+105,SALS,77,78.3,15,F,Italy,REF105
+106,FALS,46,49,36,M,Republic Of Korea,REF106
+107,FALS,49,>50,>12,M,Republic Of Korea,REF107
+108,FALS,77,>79,>24,F,Republic Of Korea,REF108
+109,FALS,59,61,24,F,Republic Of Korea,REF109
+110,FALS,49,>51,>24,M,Republic Of Korea,REF110
+111,FALS,41,>43,>24,M,Republic Of Korea,REF111
+112,FALS,48,>50,>24,M,Republic Of Korea,REF112
+113,FALS,37,37,8,M,Republic Of Korea,REF113
+114,FALS,40,48,96,F,Spain,REF114
+115,FALS,58,68,120,F,Spain,REF115
+116,FALS,56,61,60,M,Spain,REF116
+117,FALS,50,70,240,M,Spain,REF117
+118,FALS,69,71,24,M,Spain,REF118
+119,FALS,50,71,252,F,Spain,REF119
+120,FALS,43,72,349,M,Spain,REF120
+121,FALS,38,51,156,M,Spain,REF121
+122,FALS,60,>61,>12,M,Spain,REF122
+123,FALS,50,64,168,M,Spain,REF123
+124,FALS,71,74,36,F,Spain,REF124
+125,FALS,44,64,240,M,Spain,REF125
+126,FALS,50,>66,>192,F,Spain,REF126
+127,FALS,58,>68,>120,F,Spain,REF127
+128,FALS,40,>44,>48,F,Spain,REF128
+129,SALS,46,>54,>96,M,Japan,REF129
+130,FALS,37.25,not described,not described,M,Bangladesh,REF130
+131,not described,49,>60,132,M,Bulgaria,REF131
+132,FALS,62,63.2,14,M,Japan,REF132
+133,FALS,47,not described,not described,F,Republic Of Korea,REF133
+134,FALS,28,>57,>108,F,Spain,REF134
+135,FALS,39.7,41.7,24,F,China,REF135
+136,FALS,64,67,36,F,Italy,REF136
+137,FALS,43,43.9,9,M,Italy,REF137
+138,FALS,41,43,20,F,Poland,REF138
+139,FALS,40,41,11,M,Poland,REF139
+140,FALS,50,51,16,M,Poland,REF140
+141,FALS,51,53,16,F,Poland,REF141
+142,FALS,69,70,12,F,Poland,REF142
+143,FALS,53,54,12,M,Italy,REF143
+144,FALS,55,56,12,M,Italy,REF144
+145,FALS,24,25.3,15,M,Italy,REF145
+146,FALS,56,57.1,13,F,Italy,REF146
+147,FALS,44,45.2,14,M,Italy,REF147
+148,FALS,51,51.3,3,M,Italy,REF148
+149,FALS,25,26.3,15,M,Italy,REF149
+150,FALS,53,53.9,9,M,Italy,REF150
+151,FALS,50,not described,not described,M,Italy,REF151
+152,FALS,44,45,12,M,Italy,REF152
+153,FALS,66,66.7,7,F,Italy,REF153
+154,FALS,59,60.4,16,M,China,REF154
+155,SALS,47.5,56.5,9,M,China,REF155
+156,SALS,35,not described,not described,M,India (North),REF156
+157,FALS,55,>57,>24,M,Korea,REF157
+158,FALS,57,not described,not described,M,Republic Of Korea,REF158
+159,FALS,59,>65,>72,M,Italy,REF159
+160,FALS,62,85,276,F,Japan,REF160
+161,FALS,48,57,>108,M,Japan,REF161
+162,FALS,40,62,264,F,Japan,REF162
+163,FALS,53,not described,not described,not described,Germany,REF163
+164,FALS,52,58,72,F,Japan,REF164
+165,FALS,68,75,84,F,Japan,REF165
+166,FALS,34,43,108,F,Japan,REF166
+167,FALS,60,69,108,M,Japan,REF167
+168,FALS,36,64,336,F,Japan,REF168
+169,FALS,42,53,132,F,Japan,REF169
+170,FALS,54,54,8,F,United Kingdom,REF170
+171,SALS,69,not described,not described,F,Italy,REF171
+172,FALS,38,>52,>168,M,United States,REF172
+173,SALS,44,>58,>168,F,Spain,REF173
+174,SALS,40,50,>120,F,Italy,REF174
+175,FALS,48,>54,>75,F,Italy,REF175
+176,FALS,49,not described,not described,F,Italy,REF176
+177,FALS,46,not described,not described,F,Republic Of Korea,REF177
+178,SALS,~21,23,22,M,Serbia,REF178
+179,SALS,47.3,48.5,14,F,China,REF179
+180,FALS,36,>38,>24,F,Italy,REF180
+181,FALS,76,not described,not described,M,Italy,REF181
+182,FALS,19,20,12,M,Turkey,REF182
+183,FALS,57,57.8,8,F,Turkey,REF183
+184,FALS,70,74.4,53,F,Sweden,REF184
+185,SALS,29,30.3,15,M,United Kingdom,REF185
+186,FALS,47,51,48,M,not described,REF186
+187,FALS,46,49,36,F,not described,REF187
+188,FALS,57,60.2,38,M,Italy,REF188
+189,FALS,~77,>84,>84,F,Italy,REF189
+190,FALS,~30,not described,not described,M,Italy,REF190
+191,SALS,44.1,49.35,63,M,China,REF191
+192,FALS,49,64,180,M,Denmark,REF192
+193,FALS,67,68.3,15,M,Denmark,REF193
+194,FALS,46,73,324,M,Spain,REF194
+195,FALS,45,65,240,M,Spain,REF195
+196,FALS,43,51,96,F,Spain,REF196
+197,FALS,47,not described,not described,M,Spain,REF197
+198,FALS,49,69,240,F,Spain,REF198
+199,FALS,46,73,224,M,Spain,REF199
+200,SALS,24,25.6,18,M,Ireland,REF200
+201,FALS,38,39.5,18,M,Japan,REF201
+202,FALS,45,47,24,M,China,REF202
+203,FALS,45,>45.1,>25,F,United Kingdom,REF203
+204,FALS,32,42,120,M,China,REF204
+205,FALS,44,45,12,F,China,REF205
+206,FALS,40,40.11,11,F,China,REF206
+207,FALS,55,60,60,M,China,REF207
+208,FALS,61,62,12,F,China,REF208
+209,FALS,43,44,12,F,China,REF209
+210,FALS,50,62,144,F,China,REF210
+211,FALS,55,65,120,M,India,REF211
+212,FALS,45,47,24,F,India,REF212
+213,FALS,54,>58,>48,M,India,REF213
+214,FALS,43,44.2,14,F,India,REF214
+215,FALS,45,not described,not described,M,Italy,REF215
+216,FALS,13,14,12,F,Iran (Islamic Republic Of),REF216
+217,SALS,22,24.8,34,F,not described,REF217
+218,FALS,35,not described,not described,M,Italy,REF218
+219,FALS,43,46,36,F,France,REF219
+220,FALS,37,38.6,18,F,Japan,REF220
+221,FALS,36,>41,>60,F,Taiwan,REF221
+222,FALS,13.9,14,3,F,Pakistan,REF222
+223,FALS,52,56,48,M,Japan,REF223
+224,FALS,36,>47,>132,F,Japan,REF224
+225,SALS,54,not described,not described,M,Republic Of Korea,REF225
+226,FALS,28,not described,not described,M,Turkey,REF226
+227,FALS,63,65.4,26,M,Afghanistan,REF227
+228,FALS,37,53,192,F,Canada,REF228
+229,SALS,56,58,24,M,Finland,REF229
+230,SALS,77,80,36,F,Finland,REF230
+231,FALS,37,53,192,F,"British Columbia, Canada",REF231
+232,FALS,51,>57,>72,F,Netherlands,REF232
+233,FALS,not described,not described,36,M,Netherlands,REF233
+234,SALS,55,62.5,86.5,M,Netherlands,REF234
+235,FALS,46,>54,>96,M,Iran (Islamic Republic Of),REF235
+236,FALS,47,>51,>48,M,Iran (Islamic Republic Of),REF236
+237,FALS,31,>42,>132,F,Iran (Islamic Republic Of),REF237
+238,FALS,39,>40,>12,M,Iran (Islamic Republic Of),REF238
+239,FALS,41,>43,>24,F,Iran (Islamic Republic Of),REF239
+240,FALS,32,42,120,M,Iran (Islamic Republic Of),REF240
+241,FALS,31,not described,not described,F,Finland,REF241
+242,FALS,51,not described,not described,M,Finland,REF242
+243,FALS,40,not described,not described,M,Sweden,REF243
+244,FALS,40,not described,not described,F,Sweden,REF244
+245,FALS,20,not described,not described,not described,Finland,REF245
+246,FALS,36,not described,not described,not described,Finland,REF246
+247,FALS,22,not described,not described,not described,Finland,REF247
+248,FALS,94,98,48,M,Sweden,REF248
+249,FALS,not described,not described,96,F,Sweden,REF249
+250,FALS,not described,not described,84,F,Sweden,REF250
+251,FALS,44,>47,>36,M,Finland or sweden,REF251
+252,FALS,43,44,12,F,Finland or sweden,REF252
+253,FALS,74,75,12,M,Finland or sweden,REF253
+254,FALS,35,>44,>108,M,Finland or sweden,REF254
+255,FALS,64,>72,>96,F,Finland or sweden,REF255
+256,SALS,41,>45,>48,F,Italy,REF256
+257,FALS,64,80,192,F,Sweden,REF257
+258,FALS,36,60.5,294,F,Sweden,REF258
+259,FALS,45.7,67.6,261,F,Sweden,REF259
+260,FALS,44,66.1,265,M,Sweden,REF260
+261,FALS,41.7,54.5,152,M,Sweden,REF261
+262,FALS,49.3,>50.7,>16,F,Sweden,REF262
+263,FALS,62,>72.4,>124,M,Sweden,REF263
+264,FALS,42,>63.3,>255,F,Sweden,REF264
+265,FALS,44.7,>64.4,>211,F,Sweden,REF265
+266,FALS,51.6,>58.9,>87,F,Sweden,REF266
+267,FALS,44,56.3,147,M,Sweden,REF267
+268,FALS,44,55,132,M,Sweden,REF268
+269,FALS,31,47.5,>198,M,Sweden,REF269
+270,FALS,50,>56.5,>78,M,Sweden,REF270
+271,FALS,37.5,52.1,>174,F,Sweden,REF271
+272,SALS,37.6,40.3,31,F,Sweden,REF272
+273,SALS,45,56.4,136,M,Sweden,REF273
+274,FALS,49,not described,not described,M,Turkey,REF274
+275,FALS,55,not described,not described,M,Turkey,REF275
+276,FALS,45,not described,not described,F,Turkey,REF276
+277,SALS,46,63.9,213,F,Portugal,REF277
+278,SALS,29.7,35.7,>72,not described,United Kingdom,REF278
+279,SALS,71,79,8,F,not described,REF279
+280,FALS,44,not described,not described,M,Japan,REF280
+281,FALS,40,42,24,F,Japan,REF281
+282,FALS,53,56,36,M,Japan,REF282
+283,FALS,47,50,36,F,Japan,REF283
+287,FALS,not described,not described,50,not described,China,REF284
+288,FALS,61,not described,not described,not described,not described,REF285
+289,FALS,29,34,60,F,Italy,REF286
+290,FALS,~57,not described,not described,F,Italy,REF287
+291,FALS,~45,not described,not described,F,Italy,REF288
+292,FALS,~58,not described,not described,F,Italy,REF289
+293,FALS,50,69,127,F,Italy,REF290
+294,FALS,~52,not described,not described,M,Italy,REF291
+295,FALS,~25,not described,not described,M,Italy,REF292
+296,FALS,~24,not described,not described,M,Italy,REF293
+297,FALS,~22,not described,not described,F,Italy,REF294
+298,FALS,~20,not described,not described,M,Italy,REF295
+299,FALS,18,18.9,9,F,Italy,REF296
+300,FALS,~48,not described,not described,F,Italy,REF297
+301,SALS,30,not described,not described,M,Italy,REF298
+302,FALS,33,>47,>168,M,Japan,REF299
+303,FALS,66,73,84,M,Japan,REF300
+304,SALS,44,50,72,not described,Japan,REF301
+305,SALS,55,63,96,not described,Japan,REF302
+306,SALS,64,76,144,not described,Japan,REF303
+307,FALS,not described,not described,60,not described,Australia,REF304
+308,FALS,not described,not described,71,not described,Australia,REF305
+309,SALS,26,>28,>24,M,Italy,REF306
+310,SALS,45,>65,>240,F,Italy,REF307
+284,FALS,42,>51,>108,M,France,REF308
+285,FALS,44,>72,>336,F,France,REF309
+286,FALS,30,44,168,F,France,REF310
+311,SALS,60,>64,>48,M,Netherlands,REF311
+312,FALS,36,39.5,42,F,not described,REF312
+313,FALS,41,not described,not described,not described,not described,REF313
+314,FALS,57,58,11,M,Japan,REF314
+315,FALS,52,52.3,3,M,Japan,REF315
+316,SALS,53,not described,not described,M,Asian,REF316
+317,FALS,55,69,168,M,Japan,REF317
+318,FALS,6,44,456,F,Japan,REF318
+319,FALS,30,42,144,F,Japan,REF319
+320,FALS,46,57,132,F,not described,REF320
+321,FALS,41,>44,>36,M,Japan,REF321
+322,FALS,65,70,60,M,China,REF322
+323,FALS,60,63,30,M,China,REF323
+324,FALS,51,>53,>24,F,China,REF324
+325,FALS,32,34,24,M,China,REF325
+326,FALS,55,55.9,9,M,Italy,REF326
+327,FALS,38,not described,not described,M,Italy,REF327
+328,FALS,50,not described,not described,M,Italy,REF328
+329,FALS,46,47,10.8,M,Italy,REF329
+330,FALS,43,45,24,M,Italy,REF330
+331,FALS,45,47,24,F,Italy,REF331
+332,FALS,50,52,24,M,Italy,REF332
+333,FALS,48,50,18,M,Italy,REF333
+334,FALS,40,>42,>24,F,Japan,REF334
+335,FALS,58,60,20,F,Japan,REF335
+336,FALS,53,54,13,F,Japan,REF336
+337,FALS,57,59,22,M,Japan,REF337
+338,FALS,59,not described,not described,M,Japan,REF338
+339,FALS,55,55,6,F,Japan,REF339
+340,FALS,51,not described,not described,M,Japan,REF340
+341,FALS,65,67,24,F,Japan,REF341
+342,FALS,50,54,48,M,Japan,REF342
+343,FALS,68,72,44,F,Japan,REF343
+344,FALS,30,31,15,F,Japan,REF344
+345,FALS,40,not described,not described,M,Japan,REF345
+346,FALS,61,64,30,F,Japan,REF346
+347,FALS,43,51,89,M,Japan,REF347
+348,FALS,42,48,68,M,Japan,REF348
+349,FALS,54,55,17,M,Japan,REF349
+350,FALS,52,54,24,M,Japan,REF350
+351,FALS,64,65,6,M,Japan,REF351
+352,FALS,51,52,17,M,Japan,REF352
+353,FALS,60,64,50,M,Japan,REF353
+354,FALS,58,68,120,M,Japan,REF354
+355,FALS,45,51,65,M,Japan,REF355
+356,FALS,39,40,13,M,Japan,REF356
+357,FALS,41,42,12,M,Japan,REF357
+358,SALS,51,57,72,F,United States,REF358
+359,FALS,38.8,>42.1,>39,M,China,REF359
+360,SALS,34,>44,>120,M,Italy,REF360
+361,FALS,49,not described,not described,F,Canada,REF361
+362,FALS,40,53,156,M,Canada,REF362
+363,SALS,47,>58,>132,F,Canada,REF363
+364,SALS,63.6,65.1,19,not described,United Kingdom,REF364
+365,SALS,59.3,>71.3,>144,not described,United Kingdom,REF365
+366,SALS,54.4,>57.6,>38,F,China,REF366
+367,FALS,49,50.3,15,M,Germany,REF367
+368,FALS,42,not described,not described,not described,Germany,REF368
+369,FALS,52,not described,not described,not described,Germany,REF369
+370,FALS,60,not described,not described,not described,Germany,REF370
+371,FALS,74,not described,not described,not described,Germany,REF371
+372,SALS,72,>74.7,>31,M,Italy,REF372
+373,SALS,38,46,96,F,Japan,REF373
+374,SALS,36.6,38,16,not described,United Kingdom,REF374
+375,SALS,33.1,35.10,>33,M,China,REF375
+376,SALS,70,84,168,M,Italy,REF376
+377,SALS,62,>69,>93,M,France,REF377
+378,SALS,70,78,96,F,France,REF378
+379,FALS,70,>80,>120,F,France,REF379
+380,SALS,42,>44,>24,not described,Australia,REF380
+381,FALS,70.10,71,20,F,United Kingdom,REF381
+382,FALS,52,>57,>60,M,Japan,REF382
+383,FALS,28,36,96,M,Japan,REF383
+384,FALS,52,58,72,M,Japan,REF384
+385,FALS,74,76,20,M,Japan,REF385
+386,FALS,54,68,168,F,Japan,REF386
+387,FALS,79,>82,>36,M,Japan,REF387
+388,FALS,42,52,120,M,Japan,REF388
+389,SALS,62,69,84,M,Japan,REF389
+390,FALS,49,50.2,14,M,"Taiwan, Pvince Of China",REF390
+391,FALS,58,>60,>24,F,Italy,REF391
+392,FALS,73,>75,>24,M,Italy,REF392
+393,SALS,49,>59,>120,M,Italy,REF393
+394,FALS,41,59,216,F,"Taiwan, Pvince Of China",REF394
+395,FALS,59,62,36,M,Spain,REF395
+396,FALS,60,64,48,M,Spain,REF396
+397,FALS,54,58,45,F,Spain,REF397
+398,SALS,53,not described,not described,F,Spain,REF398
+399,FALS,72,not described,not described,M,United States,REF399
+400,FALS,57,60.11,47,F,Japan,REF400
+401,SALS,51,not described,not described,F,Republic Of Korea,REF401
+402,FALS,43,>46,>36,M,Japan,REF402
+403,FALS,51,not described,not described,F,Republic Of Korea,REF403
+404,SALS,~60,64,48,F,not described,REF404
+405,SALS,33,>55,>264,F,not described,REF405
+406,FALS,59,not described,not described,M,Italy,REF406
+407,FALS,52,not described,not described,F,Turkey,REF407
+408,FALS,54,not described,not described,F,Turkey,REF408
+409,FALS,59,not described,not described,M,Turkey,REF409
+410,FALS,72,>74,>24,F,Italy,REF410
+411,FALS,49,50.6,18,M,Italy,REF411
+412,FALS,51,57,72,M,Italy,REF412
+413,FALS,58,65,84,M,Italy,REF413
+414,FALS,72,77,60,F,Italy,REF414
+415,FALS,66,72,72,F,Italy,REF415
+416,FALS,67,80,156,F,Italy,REF416
+417,FALS,47,51,48,F,Italy,REF417
+418,FALS,54,>58,>48,M,Italy,REF418
+419,FALS,52,>53,>12,F,Italy,REF419
+420,FALS,55,>72,>204,F,Italy,REF420
+421,FALS,18,60,504,F,Italy,REF421
+422,FALS,63,73,120,F,Italy,REF422
+423,FALS,38,46,96,F,Italy,REF423
+424,FALS,33,67,408,F,Italy,REF424
+425,FALS,67,69,24,M,Italy,REF425
+426,FALS,64,72,96,F,Italy,REF426
+427,FALS,72,>74,>24,F,Italy,REF427
+428,FALS,28,>39,>132,M,Iran (Islamic Republic Of),REF428
+429,FALS,27,>35,>96,F,Iran (Islamic Republic Of),REF429
+430,SALS,45,>56,>132,M,Iran (Islamic Republic Of),REF430
+431,FALS,50,53.6,42,F,Japan,REF431
+432,FALS,61,63,24,M,Japan,REF432
+433,SALS,24,27,36,M,Japan,REF433
+434,not described,52,53.6,18,M,Italy,REF434
+435,FALS,48,50.3,27,M,Italy,REF435
+436,FALS,46,46.10,10,M,Italy,REF436
+437,not described,73,73.9,9,not described,Canada,REF437
+438,not described,34,35,12,F,China,REF438
+439,not described,45,45.6,6,F,China,REF439
+440,SALS,53,not described,not described,M,India (North),REF440
+441,SALS,56,56.8,8,M,Italy,REF441
+442,SALS,64,>66,>24,M,Iran (Islamic Republic Of),REF442
+443,SALS,56,56.8,8,M,Italy,REF443
+444,FALS,55,57.8,32,F,France,REF444
+445,FALS,58,58.9,9,M,France,REF445
+446,FALS,46,not described,not described,F,Turkey,REF446
+447,FALS,48,48.3,3,M,Hong Kong,REF447
+448,FALS,38,38.11,11,M,Hong Kong,REF448
+449,FALS,48,48.11,11,F,Hong Kong,REF449
+450,FALS,38,>41,>37,F,Hong Kong,REF450
+451,FALS,33,39,74,M,Hong Kong,REF451
+452,FALS,47,59,76,F,Hong Kong,REF452
+453,FALS,52,56,50,F,Hong Kong,REF453
+454,FALS,27,33,>80,F,Hong Kong,REF454
+455,FALS,48,>51,>36,F,Germany,REF455
+456,SALS,55,>57.6,>30,F,Portugal,REF456

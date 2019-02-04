@@ -1,0 +1,492 @@
+ID,Initial Site,Lower limb signs,Upper limb signs,Respiratory sign,Bulbar sign,Extra Info
+DPF1,right lower limb,yes,not described,yes,not described,
+DPF2,lower limb,yes,not described,yes,not described,"It originated independently, on different haplotype background in the Polish and Japanese populations. In conclusion, recurrent K3E mutation results in a relatively slowly progressing limb onset ALS with classic phenotype"
+DPF3,lower limb,yes,not described,not described,yes,"It originated independently, on different haplotype background in the Polish and Japanese populations. In conclusion, recurrent K3E mutation results in a relatively slowly progressing limb onset ALS with classic phenotype"
+DPF4,lower limb,yes,not described,yes,not described,"It originated independently, on different haplotype background in the Polish and Japanese populations. In conclusion, recurrent K3E mutation results in a relatively slowly progressing limb onset ALS with classic phenotype"
+DPF5,lower limb,yes,not described,not described,not described,"It originated independently, on different haplotype background in the Polish and Japanese populations. In conclusion, recurrent K3E mutation results in a relatively slowly progressing limb onset ALS with classic phenotype"
+DPF6,lower limb,yes,not described,no,no,"It originated independently, on different haplotype background in the Polish and Japanese populations. In conclusion, recurrent K3E mutation results in a relatively slowly progressing limb onset ALS with classic phenotype"
+DPF7,lower limb,yes,not described,yes,yes,"It originated independently, on different haplotype background in the Polish and Japanese populations. In conclusion, recurrent K3E mutation results in a relatively slowly progressing limb onset ALS with classic phenotype"
+DPF8,lower limb,yes,not described,yes,yes,"It originated independently, on different haplotype background in the Polish and Japanese populations. In conclusion, recurrent K3E mutation results in a relatively slowly progressing limb onset ALS with classic phenotype"
+DPF9,upper limb,not described,yes,yes,yes,"It originated independently, on different haplotype background in the Polish and Japanese populations. In conclusion, recurrent K3E mutation results in a relatively slowly progressing limb onset ALS with classic phenotype"
+DPF10,lower limb,yes,not described,yes,yes,"It originated independently, on different haplotype background in the Polish and Japanese populations. In conclusion, recurrent K3E mutation results in a relatively slowly progressing limb onset ALS with classic phenotype"
+DPF11,lower limb,yes,not described,yes,yes,"It originated independently, on different haplotype background in the Polish and Japanese populations. In conclusion, recurrent K3E mutation results in a relatively slowly progressing limb onset ALS with classic phenotype"
+DPF12,lower limb,yes,not described,not described,not described,"It originated independently, on different haplotype background in the Polish and Japanese populations. In conclusion, recurrent K3E mutation results in a relatively slowly progressing limb onset ALS with classic phenotype"
+DPF13,lower limb,yes,not described,yes,yes,"It originated independently, on different haplotype background in the Polish and Japanese populations. In conclusion, recurrent K3E mutation results in a relatively slowly progressing limb onset ALS with classic phenotype"
+DPF14,lower limb,yes,not described,no,no,"It originated independently, on different haplotype background in the Polish and Japanese populations. In conclusion, recurrent K3E mutation results in a relatively slowly progressing limb onset ALS with classic phenotype"
+DPF15,upper limb,not described,yes,yes,yes,"It originated independently, on different haplotype background in the Polish and Japanese populations. In conclusion, recurrent K3E mutation results in a relatively slowly progressing limb onset ALS with classic phenotype"
+DPF16,lower limb,yes,not described,not described,not described,"It originated independently, on different haplotype background in the Polish and Japanese populations. In conclusion, recurrent K3E mutation results in a relatively slowly progressing limb onset ALS with classic phenotype"
+DPF17,upper limb,not described,yes,not described,not described,"It originated independently, on different haplotype background in the Polish and Japanese populations. In conclusion, recurrent K3E mutation results in a relatively slowly progressing limb onset ALS with classic phenotype"
+DPF18,lower limb,yes,not described,not described,not described,"It originated independently, on different haplotype background in the Polish and Japanese populations. In conclusion, recurrent K3E mutation results in a relatively slowly progressing limb onset ALS with classic phenotype"
+DPF19,lower limb,yes,not described,no,yes,"It originated independently, on different haplotype background in the Polish and Japanese populations. In conclusion, recurrent K3E mutation results in a relatively slowly progressing limb onset ALS with classic phenotype"
+DPF20,lower limb,yes,not described,not described,not described,"It originated independently, on different haplotype background in the Polish and Japanese populations. In conclusion, recurrent K3E mutation results in a relatively slowly progressing limb onset ALS with classic phenotype"
+DPF21,lower limb,yes,not described,not described,not described,"It originated independently, on different haplotype background in the Polish and Japanese populations. In conclusion, recurrent K3E mutation results in a relatively slowly progressing limb onset ALS with classic phenotype"
+DPF22,lower limb,yes,not described,not described,not described,"It originated independently, on different haplotype background in the Polish and Japanese populations. In conclusion, recurrent K3E mutation results in a relatively slowly progressing limb onset ALS with classic phenotype"
+DPF23,lower limb,yes,not described,not described,not described,"It originated independently, on different haplotype background in the Polish and Japanese populations. In conclusion, recurrent K3E mutation results in a relatively slowly progressing limb onset ALS with classic phenotype"
+DPF24,lower limb,yes,not described,no,yes,"It originated independently, on different haplotype background in the Polish and Japanese populations. In conclusion, recurrent K3E mutation results in a relatively slowly progressing limb onset ALS with classic phenotype"
+DPF25,lower limb,yes,not described,yes,yes,"It originated independently, on different haplotype background in the Polish and Japanese populations. In conclusion, recurrent K3E mutation results in a relatively slowly progressing limb onset ALS with classic phenotype"
+DPF26,lower limb,yes,not described,no,no,"It originated independently, on different haplotype background in the Polish and Japanese populations. In conclusion, recurrent K3E mutation results in a relatively slowly progressing limb onset ALS with classic phenotype"
+DPF27,lower limb,yes,not described,not described,not described,"It originated independently, on different haplotype background in the Polish and Japanese populations. In conclusion, recurrent K3E mutation results in a relatively slowly progressing limb onset ALS with classic phenotype"
+DPF28,lower limb,yes,not described,not described,not described,"It originated independently, on different haplotype background in the Polish and Japanese populations. In conclusion, recurrent K3E mutation results in a relatively slowly progressing limb onset ALS with classic phenotype"
+DPF29,upper limbs,not described,yes,not described,not described,
+DPF30,bulbar,yes,yes,not described,yes,
+DPF31,right lower limb,yes,yes,not described,not described,
+DPF32,right upper limb,no,yes,yes,yes,
+DPF33,right upper limb,not described,not described,not described,not described,
+DPF34,right upper limb,not described,yes,yes (cause of death),not described,autosomal dominant
+DPF35,lower limbs,yes/ severe effect on lower motor neurons,normal muscle tone in upper limbs/without involvement of upper motor neurons,,no,"Rapid progression. The A4V mutation observed in the current unique Asian carrier did not share the founder haplotype observed in SOD1-A4V patients from North America, first report of a nonCaucasian ALS patient carrying the missense mutation A4V in SOD1 gene. The A4V mutation accounts for up to 50% of all SOD1 mutations in North America but is rare in Europe and has not been previously reported in Asia."
+DPF36,lower limbs,yes,yes,death cause,no,
+DPF37,right upper limb,yes,yes,not described,yes,"The enzyme activity in the three individuals with the Ala4Val mutation was found to be decreased to ~50% (22.9, 23.3 and 26.0 U/mg Hb) of control subjects (Table 2)"
+DPF38,right lower limb,yes,yes,not described,not described,
+DPF39,bulbar,yes,yes,not described,not described,
+DPF40,upper limbs,not described,yes,not described,not described,
+DPF41,lower limbs,yes,yes,yes,not described,
+DPF42,four limbs,yes,yes,yes (death cause),yes,Hoffman's signs. Heterozygous
+DPF43,bulbar,yes,yes,yes,yes,external ophthalmoplegia was noted with additional corneal complications from facial and eye lid closure paresis
+DPF44,upper limbs,yes,yes,not described,yes,autosomal dominant inheritance. The family history based on interviews with the patient and her relatives was suggestive of autosomal dominant inheritance. the codon4 mutation may be much more toxic to LMNs than to UMNs 
+DPF45,limb,not described,not described,not described,not described,Rapidly progressive atrophy. Autossomal dominant
+DPF46,limb,not described,not described,not described,not described,Slow progression. Autossomal dominant
+DPF47,not described,not described,not described,(yes) death cause,not described,
+DPF48,not described,not described,not described,yes,not described,
+DPF49,upper limb,not described,yes,yes (death cause),dysarthria,"novel heterozygous A4D mutation of SOD1 (Fig. 1b), confirming the cosegregation of the mutation."
+DPF50,right upper limb,not described,yes,yes (death cause),not described,
+DPF51,bulbar,not described,not described,yes (death cause),yes,bulbar-type ALS
+DPF52,right lower limb,yes,yes,yes (death cause),yes,Babinski signs
+DPF53,upper limbs,yes,yes,yes (death cause),yes,"A postmortem pathological study showed severe loss of anterior horn cells with gliosis, reduction of Betz cells, and loss of myelin in the corticospinal tract."
+DPF54,lower limb,yes,not described,yes,not described,
+DPF55,not described,not described,not described,not described,not described,
+DPF56,left lower limb,yes,not described,yes (death cause),not described,
+DPF57,right lower limb,yes,yes,yes (death cause),no,
+DPF58,four limbs,yes,yes,not described,yes,
+DPF59,lower limbs,yes,not described,not described,yes,
+DPF60,lower limbs,yes,not described,yes,no,
+DPF61,lower limbs,yes,not described,not described,no,
+DPF62,bulbar,not described,not described,not described,yes,spasticity
+DPF63,lower limbs,yes,not described,not described,no,
+DPF64,lower limbs,yes,not described,not described,no,
+DPF65,limb,yes,yes,yes,no,
+DPF66,lower limbs,yes,no,not described,no,
+DPF67,limb,yes,yes,not described,yes,
+DPF68,bulbar,not described,not described,not described,yes,
+DPF69,bulbar,not described,not described,not described,yes,
+DPF70,not described,not described,not described,not described,no,
+DPF71,not described,not described,not described,not described,no,
+DPF72,bulbar,not described,not described,not described,yes,
+DPF73,lower limbs,yes,no,no,yes,
+DPF74,lower limbs,yes,not described,not described,not described,
+DPF75,lower limbs,yes,yes,no,yes,
+DPF76,lower limbs,yes,not described,yes,yes,
+DPF77,right lower limb,yes,not described,not described,yes (last stage),moderate
+DPF78,limbs,yes,not described,not described,not described,
+DPF79,not described,not described,not described,yes,not described,She had multiple transfusions of red blood cells for her gastrointestinal bleeding.
+DPF80,right lower limb,yes,yes,not described,yes,"By sural nerve biopsy, we confirmed diffuse loss of large myelinated fibers together with formation of myelin ovoids and very few clusters of small myelinated fibers without suffi- cient regeneration. Slow progression to upper limbs and to bulbar. Heterozigous L8V."
+DPF81,not described,not described,not described,not described,not described,
+DPF82,not described,not described,not described,not described,not described,
+DPF83,not described,not described,not described,not described,not described,
+DPF84,not described,not described,not described,not described,not described,
+DPF85,not described,not described,not described,not described,not described,
+DPF86,not described,not described,not described,not described,not described,
+DPF87,lower limbs,yes,no,not described,yes,clinical manifestations began in the lower limbs. They then spread to the upper limbs and subsequently to the bulbar muscles.
+DPF88,lower limbs,yes,not described,not described,yes,clinical manifestations began in the lower limbs. They then spread to the upper limbs and subsequently to the bulbar muscles.
+DPF89,left lower limbs,yes,not described,yes,yes,clinical manifestations began in the lower limbs. They then spread to the upper limbs and subsequently to the bulbar muscles.
+DPF90,right lower limb,yes,yes,not described,yes,clinical manifestations began in the lower limbs. They then spread to the upper limbs and subsequently to the bulbar muscles.
+DPF91,lower limbs,yes,not described,not described,yes,clinical manifestations began in the lower limbs. They then spread to the upper limbs and subsequently to the bulbar muscles.
+DPF92,lower limbs,yes,yes,no,no,Hoffmann and Babinski signs were present on the right side. Latter and slowly progression to upper limbs.
+DPF93,left lower limb,yes,yes,no,yes,
+DPF94,lower limbs and right upper limb,yes,yes,no,yes,"Babinski sign was present on the left side.  At the age of 59, an
+ovarian cancer was diagnosed and the patient died four months after
+our last examination for multiple metastases. Found effect hypotesis of D11Y mutation."
+DPF95,left upper limb,not described,yes,no,no,"Very slow progression.  She could walk with assistance.
+There were no evident pyramidal signs but tendon reflexes were
+moderately brisk. Found effect hypotesis of D11Y mutation."
+DPF96,left lower limb,yes,yes,no,no,"There were no clear pyramidal signs. No proven familiarity of ALS was reported, tough the patient's
+father, who died at the age of 78 from cancer, was referred to have a
+slight atrophy of his right hand muscles. Very slow progression and slow progression to upper limbs. Her sister also harbor the D11Y mutation, but at age of 58 years, her neurological examination and neurophysiological evaluation were normal. Found effect hypotesis of D11Y mutation."
+DPF97,left lower limb,yes,not described,not described,yes,
+DPF98,lower limbs,yes,yes,not described,yes,
+DPF99,upper limbs,yes,yes,yes (mechanical ventilation),not described,rapid
+DPF100,right lower limb,yes,yes,not described,not described,
+DPF101,not described,not described,not described,not described,not described,
+DPF102,lower limbs,yes,not described,not described,not described,heterozygous
+DPF103,left upper limb,not described,yes,not described,not described,heterozygous
+DPF104,left upper limb,yes,yes,not described,no,
+DPF105,upper limbs,not described,yes,not described,not described,
+DPF106,left lower limb,yes,yes,not described,yes,
+DPF107,lower limbs,yes,no,not described,not described,
+DPF108,lower limbs,yes,yes,not described,yes,
+DPF109,left lower limb,yes,yes,not described,yes,
+DPF110,right lower limb,yes,yes,not described,yes,
+DPF111,lower limbs,yes,no,not described,not described,
+DPF112,lower limbs,yes,yes,not described,yes,
+DPF113,left lower limb,yes,yes,not described,yes,
+DPF114,not described,not described,not described,not described,not described,"In our pedigree, p.E22G was associated with a clinical phenotype characterized by predominant lower motor neuron signs, clinical onset in the early sixth decade, initial symptoms involving the distal muscles (usually the lower limbs), late bulbar and respiratory involvement, high penetrance, no gender predominance, no anticipation, and a slow progression with a long survival time"
+DPF115,lower limbs,yes,not described,not described,not described,
+DPF116,lower limbs,yes,not described,not described,not described,
+DPF117,left lower limb,yes,not described,not described,not described,
+DPF118,lower limbs,yes,not described,not described,not described,
+DPF119,not described,not described,not described,not described,not described,
+DPF120,lower limbs,yes,not described,not described,not described,
+DPF121,right lower limb,yes,not described,not described,not described,
+DPF122,right upper limb,not described,yes,not described,not described,
+DPF123,lower limbs,yes,not described,not described,not described,
+DPF124,not described,not described,not described,not described,not described,
+DPF125,lower limbs,yes,not described,not described,not described,
+DPF126,right lower limb,yes,yes,not described,not described,
+DPF127,right upper limb,not described,yes,not described,not described,
+DPF128,left lower limb,yes,yes,not described,no,Babinski's sign was obtained on the right side
+DPF129,left lower limb,yes,yes,yes,not described,slow
+DPF130,lower limbs,yes,yes,not described,yes(tongue),Family history was suggestive of an autosomal dominant disorder.
+DPF131,lower limbs,yes,no,no,no,"Babinski bilaterally. The
+clinical phenotype included predominant upper motor neuron
+findings on examination with lower motor neuron signs in lower
+limbs and very slow progression to upper limbs. Heterozygous."
+DPF132,lower limbs,yes,yes,yes (cause of death),no,
+DPF133,limb,not described,not described,not described,not described,
+DPF134,lower limbs,yes,not described,not described,not described,
+DPF135,bulbar,not described,not described,not described,yes,
+DPF136,lower limbs,yes,not described,no,not described,
+DPF137,lower limbs,yes,yes,yes,yes,Died due asphyxiation
+DPF138,right uppper limbs,yes,yes,not described,yes,"Genetic analysis revealed that the Polish-French G41S mutation is apparently a recurrent one, resulting from an independent mutation event."
+DPF139,left uppper limbs,yes,yes,not described,yes,"Genetic analysis revealed that the Polish-French G41S mutation is apparently a recurrent one, resulting from an independent mutation event."
+DPF140,right lower limbs,yes,not described,not described,no,"Genetic analysis revealed that the Polish-French G41S mutation is apparently a recurrent one, resulting from an independent mutation event."
+DPF141,right lower limbs,yes,yes,yes,no,"Genetic analysis revealed that the Polish-French G41S mutation is apparently a recurrent one, resulting from an independent mutation event."
+DPF142,lower limbs,yes,not described,not described,not described,"Genetic analysis revealed that the Polish-French G41S mutation is apparently a recurrent one, resulting from an independent mutation event."
+DPF143,lower limbs,yes,yes,yes,yes,"sexual and urinary disturbances, visual hallucination syndrome and mental confusion. rapidly progressive spreading
+weakness to upper limbs, respiratory muscles and
+bulbar district."
+DPF144,lower limbs,yes,yes,yes,yes,"developed behavior derangement characterized by sexual disinhibition, after nine months of illness. The mental status examination showed a disturbance of frontal lobe type. rapidly progressive spreading
+weakness to upper limbs, respiratory muscles and
+bulbar district."
+DPF145,lower limbs,yes,yes,not described,not described,
+DPF146,right lower limb,yes,yes,not described,yes,
+DPF147,left lower limb,yes,yes,not described,yes,
+DPF148,lower limb,yes,yes,not described,yes,
+DPF149,left lower limb,yes,yes,not described,yes,
+DPF150,lower limb,yes,yes,not described,yes,"sexual and urinary disturbances, mental confusion and visual hallucination"
+DPF151,left lower limb,yes,yes,not described,not described,
+DPF152,right lower limb,yes,yes,not described,yes,
+DPF153,right lower limb,yes,yes,not described,yes,
+DPF154,upper limb,not described,yes,not described,not described,
+DPF155,upper limb,not described,yes,not described,not described,
+DPF156,right lower limb,yes,not described,not described,not described,
+DPF157,right upper limb,yes,yes,yes,yes,"Hoffmann signs were present on the right hand. Bullous pemphigoid . Twenty-two months later the patient had a severe functional disability of gastrostomy and placement on a tracheostomy-assisted ventilator, and he suddenly presented with erythematous patches studded with small vesicles on both his hands and soles. The family history based on interviews with the patient and his relatives was suggestive of an autosomal-dominant inheritance.  his 48-year-old youngest sister and 31-year-old daughter after consent for genetic examinations had been obtained; both individuals carried this same SOD1 mutation (F45S) (Fig. 1B). Both individuals remain unaffected"
+DPF158,limb,not described,not described,not described,not described,
+DPF159,upper limbs,yes,yes,not described,yes,
+DPF160,not described,not described,not described,not described,not described,death due to a metastatic brain tumor
+DPF161,right lower limb,yes,yes,no,no,"The family tree revealed autosomal dominant inheritance with complete penetration.  The initial symptom in this family was gait
+disturbance due to distal weakness of the unilateral lower
+limb."
+DPF162,left lower limb,yes,yes,yes,yes,"initial gait disturbance. She died of tonsillar herniation due to the metastatic cerebellar cancer at the age of 62 years. The family tree revealed autosomal dominant.  The initial symptom in this family was gait
+disturbance due to distal weakness of the unilateral lower
+limb.
+inheritance with complete penetration."
+DPF163,not described,not described,not described,not described,not described,
+DPF164,left lower limb,yes,yes,not described,no,
+DPF165,not described,yes,no,not described,no,
+DPF166,not described,yes,yes,not described,yes,
+DPF167,not described,yes,yes,not described,yes,
+DPF168,not described,yes,yes,not described,no,
+DPF169,lower limbs,yes,yes,not described,no,
+DPF170,lower limbs,yes,not described,not described,not described,
+DPF171,lower limbs,not described,not described,not described,not described,
+DPF172,lower limbs,yes,latter,not described,not described,thoracic pain with Lhermitte-like symptoms
+DPF173,left lower limb,yes,yes,not described,yes,facial weaknes is the only bulbar sign
+DPF174,lower limbs,yes,not described,no,not described,Babinski sign
+DPF175,lower limbs,not described,not described,not described,not described,heterozygous
+DPF176,not described,not described,not described,not described,not described,"reported suffering from muscular pain and weakness, strong headaches, difficulty of attention and hypertension"
+DPF177,limb,not described,not described,not described,not described,
+DPF178,lower limbs,yes,yes,yes (mechanical ventilation),no,jaw and gag reflexes
+DPF179,lower limbs,yes,not described,not described,not described,
+DPF180,lower limbs,yes,yes,not described,no,
+DPF181,not described,not described,not described,not described,not described,
+DPF182,limb,not described,not described,not described,not described,"autosomal dominant, very fast progression, incomplete penetrance"
+DPF183,limb,not described,not described,not described,not described,"autosomal dominant, very fast progression, incomplete penetrance"
+DPF184,four limbs,yes,yes,yes (cause of death),no,loss of lower motor neurons and. Features that mimic a myopathy.
+DPF185,left lower limb,yes,yes,yes (cause of death),no,
+DPF186,right lower limbs,yes,yes,not described,yes,
+DPF187,right lower limb,yes,yes,not described,yes,
+DPF188,lower limbs,yes,yes,yes,not described,heterozygous
+DPF189,limbs,not described,not described,not described,not described,"Since 77 years old limbs deambulation problems. However, she is still autonomous, speaks and moves"
+DPF190,not described,not described,not described,not described,not described,
+DPF191,lower limb,yes,not described,not described,not described,
+DPF192,right lower limb,yes,yes (latter),yes,yes (latter),"The enzyme activity in the two individuals with the Asp76Tyr mutation was found to be decreased to ~50% (27.0 and 27.8 U/mg Hb, respectively) of control subjects (Table 2)"
+DPF193,bulbar,yes,yes,yes,yes,
+DPF194,left lower limb,yes,yes,yes,yes,left Babinski sign
+DPF195,lower limbs,yes,not described,not described,not described,only occasional fasci- culation in the right triceps suralis
+DPF196,lower limbs,yes,not described,not described,not described,
+DPF197,lower limbs,yes,not described,not described,not described,
+DPF198,right lower limb,yes,yes,not described,no,
+DPF199,right lower limb,yes,yes,yes,yes,left Babinski sign
+DPF200,left lower limb,yes,yes,yes,yes,rapid
+DPF201,left upper limb,yes,yes,yes,yes,
+DPF202,upper limbs,not described,yes,not described,not described,
+DPF203,left lower limb,yes,yes,not described,not described,
+DPF204,not described,not described,not described,not described,not described,
+DPF205,not described,not described,not described,not described,not described,
+DPF206,not described,yes,no,not described,no,
+DPF207,not described,not described,not described,not described,not described,
+DPF208,not described,not described,not described,not described,not described,
+DPF209,not described,not described,not described,not described,not described,
+DPF210,not described,not described,not described,not described,not described,
+DPF211,not described,yes,not described,not described,not described,
+DPF212,not described,not described,not described,not described,not described,
+DPF213,lower limbs,yes,yes,yes,yes,
+DPF214,left upper limb,yes,yes,yes (cause of death),no,
+DPF215,lower limbs,not described,not described,not described,not described,
+DPF216,lower limbs,yes,not described,not described,not described,heterozygous
+DPF217,right lower limb,yes,yes,not described,not described,Babinski at right side. Heterozygous for the mutation
+DPF218,left lower limb,yes,yes,not described,not described,bilateral Babinski sign
+DPF219,lower limbs,yes,not described,not described,not described,"patient born to consanguineous
+parents and harboring this mutation in the homozygous
+state"
+DPF220,left lower limbs,yes,yes,yes,yes,heterozygous. Died of pneumonia.
+DPF221,lower limbs,yes,not described,not described,not described,not described
+DPF222,right lower limb,yes,yes,yes (cause of death),yes,"Homozygous. Had pneumonia.The predominant clinical features in this patient were progressive asymmetrical lower motor neurone weakness and wasting with more marked involvement of lower limbs and distal musculature, together with bulbar involvement."
+DPF223,upper limbs,no,yes,yes (cause of death),not described,
+DPF224,lower limbs,yes,not described,not described,not described,
+DPF225,limb,not described,not described,not described,not described,
+DPF226,limb,not described,not described,not described,not described,Very fast progression
+DPF227,left lower limb,yes,yes,yes (cause of death),not described,autosomal-dominant
+DPF228,lower limbs,yes,yes,not described,yes,"Babinski sign, pes cavus, heterozygous"
+DPF229,lower limbs,yes,not described,not described,not described,"The enzyme activity of individuals homo- or heterozygous for the Asp90Ala mutation is reduced by ~7% in both groups compared with neurological control subjects and bloodrelatives without a CuZn-SOD mutation (Table 2; Andersen et al., 1995)."
+DPF230,lower limbs,yes,not described,not described,not described,"A 72- year-old sister of the male patient was also found to be heterozygous for the Asp90Ala mutation. She shows no signs of motor neuron disease. The basis for the existence of adult-onset recessive ALS with patients homozygous for the Asp90Ala CuZn-SOD mutation is a CuZn-SOD polymorphism (Kirjarinta et al. 1969; Beckman, 1973)."
+DPF231,lower limbs,yes,yes,yes,yes,Babinski and Hoffman sign; pes cavus of both feet. Died during sleep
+DPF232,upper limbs,yes,yes,not described,no,"heterozygous, autosomal dominant"
+DPF233,bulbar,not described,not described,yes (cause of death),yes,"heterozygous, autosomal dominant"
+DPF234,lower limbs,yes,yes,not described,not described,homozygous. bilateral Babinski
+DPF235,lower limbs,yes,not described,not described,not described,
+DPF236,lower limbs,yes,not described,not described,not described,
+DPF237,lower limbs,yes,not described,not described,not described,
+DPF238,lower limbs,yes,not described,not described,not described,
+DPF239,lower limbs,yes,not described,not described,not described,
+DPF240,lower limbs,yes,not described,not described,not described,
+DPF241,not described,not described,not described,not described,not described,homozygous
+DPF242,not described,not described,not described,not described,not described,
+DPF243,lower limbs,yes,yes,not described,not described,homozygous
+DPF244,lower limbs,yes,yes,not described,not described,homozygous
+DPF245,lower limbs,yes,yes,not described,not described,homozygous
+DPF246,lower limbs,yes,yes,not described,not described,homozygous
+DPF247,lower limbs,yes,yes,not described,not described,homozygous
+DPF248,lower limbs,yes,yes,not described,not described,homozygous
+DPF249,lower limbs,yes,yes,not described,not described,
+DPF250,lower limbs,yes,yes,not described,not described,
+DPF251,upper limbs,yes,yes,not described,not described,Hoffman-Tromner signs
+DPF252,upper limbs,yes,not described,not described,not described,
+DPF253,lower limbs,yes,yes,not described,yes,
+DPF254,upper limbs,not described,yes,not described,not described,
+DPF255,lower limbs,yes,yes,not described,not described,Hoffman-Tromner signs
+DPF256,lower limbs,yes,yes,not described,not described,"Babinski sign, bilateral pes cavus"
+DPF257,not described,yes,yes,not described,yes,
+DPF258,not described,yes,yes,not described,yes,
+DPF259,not described,yes,yes,not described,yes,homozygous
+DPF260,not described,yes,yes,not described,yes,
+DPF261,not described,yes,yes,not described,yes,
+DPF262,not described,no,yes,not described,yes,homozygous
+DPF263,not described,yes,yes,not described,yes,homozygous
+DPF264,not described,yes,yes,not described,yes,homozygous
+DPF265,not described,yes,yes,not described,yes,homozygous
+DPF266,not described,yes,yes,not described,yes,homozygous
+DPF267,not described,yes,yes,not described,yes,
+DPF268,not described,yes,yes,not described,yes,homozygous
+DPF269,not described,yes,yes,not described,yes,homozygous
+DPF270,not described,yes,yes,not described,yes,homozygous
+DPF271,not described,yes,yes,not described,yes,homozygous
+DPF272,not described,yes,yes,not described,yes,homozygous
+DPF273,not described,yes,yes,not described,yes,homozygous
+DPF274,limbs,not described,not described,not described,not described,Stereotyped Scandinavian phenotype
+DPF275,limbs,not described,not described,not described,not described,Stereotyped Scandinavian phenotype
+DPF276,limbs,not described,not described,not described,not described,Stereotyped Scandinavian phenotype
+DPF277,right lower limb,yes,not described,not described,not described,
+DPF278,not described,not described,not described,not described,not described,
+DPF279,lower limbs,yes,yes,yes (death cause),yes,ALS patients with D90 codon heterozygous mutations may be associated with rapid progression and a prominent pain syndrome
+DPF280,right lower limbs,yes,yes,not described,yes,"Babinski and Chaddock signs, pes cavus and hammer toes"
+DPF281,four limbs,yes,yes,not described,not described,
+DPF282,four limbs,yes,yes,yes (death cause),not described,
+DPF283,four limbs,yes,yes,yes (death cause),not described,
+DPF284,not described,not described,not described,not described,not described,D93G+NEK1 p.P287A+SETX p.M2324I+SOD1* p.I150T
+DPF285,not described,not described,not described,not described,not described,
+DPF286,left lower limb,yes,yes,not described,not described,"Onset in pregnancy. Heterozygous,"
+DPF287,not described,not described,not described,not described,not described,
+DPF288,not described,not described,not described,not described,not described,
+DPF289,not described,not described,not described,not described,not described,
+DPF290,lower limbs,yes,not described,not described,not described,
+DPF291,not described,not described,not described,not described,not described,
+DPF292,not described,not described,not described,not described,not described,
+DPF293,not described,not described,not described,not described,not described,
+DPF294,not described,not described,not described,not described,not described,
+DPF295,not described,not described,not described,not described,not described,
+DPF296,lower limbs,yes,not described,not described,not described,heterozygous
+DPF297,not described,not described,not described,not described,not described,
+DPF298,lower limbs,not described,not described,not described,not described,
+DPF299,left lower limb,yes,yes,yes,yes,severe sensory and autonomic disturbances
+DPF300,lower limp,yes,yes,yes,not described,dysarthria
+DPF301,lower limbs,yes,not described,not described,not described,
+DPF302,left lower limb,yes,not described,not described,not described,slow
+DPF303,right lower limb,yes,not described,not described,not described,slow
+DPF304,not described,not described,not described,not described,not described,Do not alter enzyme sites
+DPF305,not described,not described,not described,not described,not described,
+DPF306,lower limbs,yes,yes,not described,not described,slow
+DPF307,left lower limb,yes,yes,not described,no,Babinski sign
+DPF308,lower limbs,yes,yes,not described,yes,D90A concomitant
+DPF309,lower limbs,yes,yes,not described,yes,D90A concomitant
+DPF310,lower limbs,yes,yes,not described,yes,D90A concomitant
+DPF311,bulbar,yes,yes,not described,yes,
+DPF312,left leg,yes,yes,death cause,mild,
+DPF313,not described,not described,not described,not described,not described,
+DPF314,bulbar,severe,yes,cause of death,hoarseness,"degenerative changes restricted to the upper and lower motor neuron systems (more strictly, with lower motor predominance). his is the first report of hoarseness as the initial manifestation of FALS. This SOD1 gene mutation may be associated with a particular clinicopathological phenotype."
+DPF315,right upper limb,not described,yes,yes (cause of death),yes,Babinski sign
+DPF316,not described,not described,not described,not described,not described,
+DPF317,lower limbs,yes,yes,not described,yes,
+DPF318,lower limbs,yes,yes,not described,yes,
+DPF319,lower limbs,yes,yes,yes (cause of death),yes,
+DPF320,Lower limb,yes,yes,Severe (artificial ventilation),,
+DPF321,upper limbs,yes,yes,not described,yes,
+DPF322,lower limbs,yes,yes,yes (death cause),yes,
+DPF323,lower limbs,yes,yes,yes (death cause),yes,
+DPF324,upper limbs,yes,yes,not described,yes,
+DPF325,lower limbs,yes,yes,yes (death cause),yes,
+DPF326,left lower limb,yes,yes,yes (death cause),yes,
+DPF327,left lower limb,yes,yes,not described,not described,
+DPF328,left lower limb,yes,yes,not described,not described,
+DPF329,left lower limb,yes,yes,not described,yes,
+DPF330,not described,not described,not described,not described,not described,
+DPF331,lower limb,yes,not described,not described,yes,
+DPF332,four limbs,yes,yes,not described,yes,
+DPF333,lower limb,yes,yes,not described,yes,
+DPF334,reight upper limb,yes,yes,not described,not described,
+DPF335,lower limbs,yes,not described,not described,not described,
+DPF336,left lower limbs,yes,not described,not described,yes,
+DPF337,lower limbs,yes,yes,yes,yes,Died due pneumonia
+DPF338,left lower limbs,yes,not described,not described,yes,
+DPF339,left lower limbs,yes,not described,not described,yes,
+DPF340,left lower limbs,yes,not described,not described,not described,
+DPF341,lower limbs,yes,not described,not described,yes,
+DPF342,right lower limbs,yes,not described,not described,not described,
+DPF343,right lower limbs,yes,not described,yes,not described,
+DPF344,left lower limbs,yes,not described,yes,not described,
+DPF345,right upper limbs,not described,yes,not described,yes,
+DPF346,right lower limbs,yes,not described,yes,not described,
+DPF347,right upper limbs,not described,yes,yes,yes,
+DPF348,right upper limbs,not described,yes,yes,not described,
+DPF349,right lower limbs,yes,not described,not described,not described,
+DPF350,left lower limbs,yes,not described,not described,yes,
+DPF351,right lower limbs,yes,not described,not described,not described,
+DPF352,left lower limb,yes,yes,not described,yes,", the patient suffered from easy fatigability of the left
+leg and gait disturbance. Seven months later, he noticed muscle atrophy
+of the left hand and twitching on his face. Ten months after onset, he
+consulted our hospital. Neurological examination revealed dysarthria,
+muscle atrophy, fasciculation and muscle weakness in the face and
+left lower limbs. Hyperreflexia in all 4 limbs and brisk jaw jerk were
+also observed, and the snout and Babinski reflexes were positive. about a half year from the onset, the developed pollakiuria. Babinski sign. Died by pneumonia."
+DPF353,bulbar,not described,not described,yes,not described,
+DPF354,right lower limb,yes,not described,yes,not described,
+DPF355,left upper limb,not described,yes,yes,not described,
+DPF356,left upper limb,not described,yes,not described,yes,
+DPF357,left lower limb,yes,not described,not described,not described,
+DPF358,bulbar,yes,yes,yes,yes,"medical history was significant for hypercholesterolemia, a wrist cyst excision, and tonsillectomy. gag and jaw reflexes were present. sudden jerking movements in her left arm, which
+were triggered by loud noises. Hoffmann sign was present on the left, but not on the right."
+DPF359,lower limb,yes,not described,not described,not described,
+DPF360,lower limb,yes,yes,not described,not described,not described
+DPF361,upper limb (right arm),yes,yes,yes,not described,Hoffmann's sign present bilaterally
+DPF362,lower limbs,yes,not described,death cause,not described,Cause of death was reported as hypostatic pneumonia secondary to motor neuron disease.
+DPF363,lower limbs,yes,yes,no,no,
+DPF364,not described,not described,not described,not described,not described,not described
+DPF365,not described,not described,not described,not described,not described,not described
+DPF366,lower limbs,yes,not described,not described,not described,
+DPF367,bulbar,yes,yes,yes,yes,
+DPF368,not described,not described,not described,not described,not described,founder effect
+DPF369,not described,not described,not described,not described,not described,founder effect
+DPF370,not described,not described,not described,not described,not described,founder effect
+DPF371,not described,not described,not described,not described,not described,founder effect
+DPF372,right upper limb,yes,yes,yes,yes,heterozygous
+DPF373,lower limbs,yes,yes,yes,yes,"developed supranuclear ophthalmoplegia, had progressive postprandial and orthostatic hypotension and died from sudden cardiac arrest"
+DPF374,not described,not described,not described,not described,not described,
+DPF375,upper limb,not described,yes,not described,not described,
+DPF376,left lower limbs,yes,yes,yes (cause of death),yes,"heterozygous, prevalent lower motor neuron phenotype. Slowly progression. Three in silico models suggest a deleterious effect of the p.E121G mutation."
+DPF377,lower limbs,yes,yes,not described,yes,"Gowers sign, Babinski billaterally, Romberg sign"
+DPF378,lower limbs,yes,yes,no,no,The patient complained of dysarthria and choking.
+DPF379,lower limbs,yes,not described,not described,not described,"SMA (spinal muscular atrophy) case; C9ORF72
+(Nb of
+repeats) < 30; SMN1
+copies:2; SMN2
+copies:1"
+DPF380,left lower limb,yes,not described,not described,not described,
+DPF381,not described,not described,not described,not described,not described,
+DPF382,lower limbs,yes,no ,not described,yes,
+DPF383,right lower limbs,yes,no ,not described,yes,
+DPF384,lower limbs,yes,yes,yes,yes,
+DPF385,lower limbs,no,yes,not described,yes,Died by pneumonia
+DPF386,lower limbs,yes,yes,not described,not described,
+DPF387,lower limbs,yes,yes,not described,no,
+DPF388,lower limbs,yes,no ,not described,no,
+DPF389,lower limbs,yes,yes,yes (cause of death),not described,slow. Started with gait disturbance due lower limbs muscles weakness.
+DPF390,bulbar,yes,yes,not described,yes,
+DPF391,lower limbs,yes,yes,not described,no,Other members with the mutation do not developed the disease
+DPF392,lower limbs,yes,yes,not described,yes,Other members with the mutation do not developed the disease
+DPF393,left lower limb,yes,yes,no,no,
+DPF394,right lower limb,yes,not described,not described,not described,
+DPF395,left upper limb,yes,yes,yes (cause of death),yes,bilateral Babinski's sign
+DPF396,left lower limb,yes,yes,yes (cause of death),no,
+DPF397,right upper limb,not described,yes,a,not described,
+DPF398,not described,not described,not described,not described,not described,
+DPF399,right upper limb,yes,yes,not described,not described,
+DPF400,right lower limb,not described,yes,not described,not described,not described
+DPF401,limb,not described,not described,not described,not described,
+DPF402,right lower limb,yes,yes,not described,not described,Babinski sign
+DPF403,limb,not described,not described,not described,not described,
+DPF404,four limbs,yes,yes,yes,yes,"died by aspiration pneumonia. this particular novel SOD1 mutation is associated with early painful cramps, which predate the onset of weakness. The finding of increased cramps before the onset of weakness may have implications for earlier detection"
+DPF405,lower limbs,yes,yes,not described,not described,background of depression and anxiety
+DPF406,lower limbs,not described,not described,not described,not described,
+DPF407,limb,not described,not described,not described,not described,
+DPF408,limb,not described,not described,not described,not described,
+DPF409,limb,not described,not described,not described,not described,
+DPF410,lower limbs,yes,not described,not described,not described,
+DPF411,upper limbs,yes,yes,yes (cause of death),yes,Dementia and hyperthyroidism
+DPF412,lower limbs,yes,yes,not described,yes,Hyperthyroidism
+DPF413,lower limbs,yes,yes,not described,no,
+DPF414,lower limbs,yes,yes,not described,yes,
+DPF415,lower limbs,yes,yes,not described,yes,
+DPF416,upper limbs,yes,yes,not described,no,
+DPF417,lower limbs,yes,no,not described,no,Breast cancer
+DPF418,lower limbs,yes,yes,not described,yes,
+DPF419,lower limbs,yes,no,not described,no,
+DPF420,lower limbs and back,yes,yes,not described,no,patient suffering with depression. dominant
+DPF421,lower limbs,yes,not described,not described,not described,dominant
+DPF422,lower limbs,yes,not described,not described,not described,dominant
+DPF423,lower limbs,yes,not described,not described,not described,dominant. 
+DPF424,lower limbs,yes,not described,not described,not described,dominant
+DPF425,lower limbs,yes,not described,not described,not described,"dominant. Patient died of cardiac failure, had cardiac arrhythmmia"
+DPF426,lower limbs,yes,not described,not described,not described,dominant
+DPF427,lower limbs,yes,not described,not described,not described,"dominant. Patient had cardiac arrhthmia, depression and cognitive impairment"
+DPF428,lower limbs,yes,not described,not described,not described,
+DPF429,lower limbs,yes,not described,not described,not described,
+DPF430,lower limbs,yes,not described,not described,not described,
+DPF431,right lower limb,yes,not described,not described,yes,
+DPF432,bulbar,not described,yes,yes (cause of death),yes,
+DPF433,Four limbs,very severe,severe/very severe,severe to need noninvasive nasal ventilation or temporal use of ventilation,very severe to need tube feeding,Rapid Progression
+DPF434,upper limbs,mild,mild,no,mild,Slow progression
+DPF435,lower limbs,yes,yes,death cause,not described,
+DPF436,upper limbs,yes,"tongue hypotrophy with fasciculations, spastic paraparesis, impairment of feet extension and brisk jaw jerk and lower limbs reflexes",death cause,yes,
+DPF437,upper limbs,not described,yes,not described,not described,Death 9 months after onset
+DPF438,upper limbs,yes,yes,yes,yes,Rapid progression
+DPF439,bulbar,yes,yes,yes,yes,Death 6 months after onset
+DPF440,right upper limb,not described,yes,not described,not described,
+DPF441,bulbar,yes,yes,severe (death cause),yes,Rapid Progression. The effect may correlate with the peculiar clinical bulbar phenotype onset with bilateral vocal cord paresis and rapid clinical course of the disease
+DPF442,upper limbs,not described,yes,not described,not described,
+DPF443,bulbar,yes,yes,death cause,yes,
+DPF444,lower limbs,yes,not described,not described,not described,"C9ORF72 (Nb of repeats): <30; SMN1
+copies: 1; SMN2
+copies:2"
+DPF445,lower limbs,yes,not described,not described,not described,"C9ORF72 (Nb of repeats): <30; SMN1
+copies: 2; SMN2
+copies:2"
+DPF446,limb,not described,not described,not described,not described,
+DPF447,bulbar,not described,not described,not described,not described,"ALS2, DAO"
+DPF448,lower limbs,not described,not described,not described,not described,
+DPF449,lower limbs,not described,not described,not described,not described,DAO
+DPF450,lower limbs,not described,not described,not described,not described,
+DPF451,lower limbs,not described,not described,not described,not described,
+DPF452,lower limbs,not described,not described,not described,not described,
+DPF453,lower limbs,not described,not described,not described,not described,"NEK1, SETX, SOD1"
+DPF454,lower limbs,not described,not described,not described,not described,
+DPF455,bulbar,yes,yes,yes,yes,
+DPF456,left lower limb,yes,yes,not described,not described,

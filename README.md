@@ -1,1 +1,1 @@
-# ALS_mutations_database
+# Comprehensive Database of ALS Mutations

@@ -33,7 +33,7 @@ DPF31,right lower limb,yes,yes,not described,not described,
 DPF32,right upper limb,no,yes,yes,yes,
 DPF33,right upper limb,not described,not described,not described,not described,
 DPF34,right upper limb,not described,yes,yes (cause of death),not described,autosomal dominant
-DPF35,lower limbs,yes/ severe effect on lower motor neurons,normal muscle tone in upper limbs/without involvement of upper motor neurons,,no,"Rapid progression. The A4V mutation observed in the current unique Asian carrier did not share the founder haplotype observed in SOD1-A4V patients from North America, first report of a nonCaucasian ALS patient carrying the missense mutation A4V in SOD1 gene. The A4V mutation accounts for up to 50% of all SOD1 mutations in North America but is rare in Europe and has not been previously reported in Asia."
+DPF35,lower limbs,yes,no,,no,"Rapid progression. The A4V mutation observed in the current unique Asian carrier did not share the founder haplotype observed in SOD1-A4V patients from North America, first report of a nonCaucasian ALS patient carrying the missense mutation A4V in SOD1 gene. The A4V mutation accounts for up to 50% of all SOD1 mutations in North America but is rare in Europe and has not been previously reported in Asia."
 DPF36,lower limbs,yes,yes,death cause,no,
 DPF37,right upper limb,yes,yes,not described,yes,"The enzyme activity in the three individuals with the Ala4Val mutation was found to be decreased to ~50% (22.9, 23.3 and 26.0 U/mg Hb) of control subjects (Table 2)"
 DPF38,right lower limb,yes,yes,not described,not described,

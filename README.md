@@ -1,1 +1,1 @@
-# Comprehensive Database of ALS Mutations
+# Database of ALS Missense Mutations
